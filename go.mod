@@ -1,4 +1,4 @@
-module github.com/mryee/common-utils
+module github.com/mryee2023/common-utils
 
 go 1.18
 
