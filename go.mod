@@ -1,4 +1,4 @@
-module promotion-common-utils
+module github.com/mryee/common-utils
 
 go 1.18
 
